@@ -10,9 +10,6 @@ Welcome to my GitHub! I'm a passionate developer, lifelong learner, and problem 
 - 🛠️ Languages & Tools:  
   `C` | `Python` | `C++` | `Java` | `Node.js` | `React` | `MongoDB` | `PostgreSQL` | `TensorFlow` | `PyTorch` | `Git`
 
-## 📊 GitHub Stats
-
-![Asmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmi-dagar&show_icons=true&theme=tokyonight)
 
 ## ✨ Featured Projects
 
