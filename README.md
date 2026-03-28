@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate developer, lifelong learner, and problem 
 - 💡 Actively building projects that solve real-world problems — most recently worked on *NIVAAAN*, an AI-powered complaint managemeng platform.
 - 🌱 Currently learning **Advanced DSA**, **UI/UX**, and **Deep Learning**.
 - 🛠️ Languages & Tools:  
-  `C` | `Python` | `C++` | `UI/UX` | `Node.js` | `React` | `MongoDB` | `PostgreSQL` | `TensorFlow` | `PyTorch` | `Git`
+  `C` | `Python` | `C++` | `UI/UX` | `Problem Solving` | `React` | `MongoDB` | `PostgreSQL` | `TensorFlow` | `PyTorch` | `Git`
 
 
 ## ✨ Featured Projects
