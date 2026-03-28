@@ -4,17 +4,17 @@ Welcome to my GitHub! I'm a passionate developer, lifelong learner, and problem 
 
 ## 🚀 About Me
 
-- 🎓 B.Tech student with a keen interest in Data Science,AI, DSA, and backend development.
-- 💡 Actively building projects that solve real-world problems — most recently worked on *ResolveAI*, an AI-powered grievance management platform.
-- 🌱 Currently learning **Advanced DSA**, **React.js**, and **Deep Learning**.
+- 🎓 B.Tech student with a keen interest in Data Science,AI, DSA, and UI/UX.
+- 💡 Actively building projects that solve real-world problems — most recently worked on *NIVAAAN*, an AI-powered complaint managemeng platform.
+- 🌱 Currently learning **Advanced DSA**, **UI/UX**, and **Deep Learning**.
 - 🛠️ Languages & Tools:  
-  `C` | `Python` | `C++` | `Java` | `Node.js` | `React` | `MongoDB` | `PostgreSQL` | `TensorFlow` | `PyTorch` | `Git`
+  `C` | `Python` | `C++` | `UI/UX` | `Node.js` | `React` | `MongoDB` | `PostgreSQL` | `TensorFlow` | `PyTorch` | `Git`
 
 
 ## ✨ Featured Projects
 
-- 🔹 **ResolveAI** — Smart grievance management with sentiment analysis & AI routing  
-- 🔹 **Ahar** — A food donation platform connecting restaurants to NGOs  
+- 🔹 **NIVAAAN** — Tranaparent Complaint Management Platform  
+- 🔹 **Age and Gender Prediction** — OpenCV model for age and gender prediction using images 
 - 🔹 **Hand Gesture Recognition** — Deep learning models for gesture-based interaction
 
 ## 📫 Connect With Me
